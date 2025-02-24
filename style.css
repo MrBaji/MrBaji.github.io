@@ -8,14 +8,26 @@
 }
 
 .navBar{
+    margin: 30px 50px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 5px 10px;
+    color: white;
+}
+.aLogo{
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
 }
 
 .ulNav{
     display: flex;
     justify-content: space-between;
     gap: 10px;
+}
+
+.aNav{
+    color: black;
+    font-weight: bold;
 }
