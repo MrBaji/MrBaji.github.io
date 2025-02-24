@@ -13,3 +13,9 @@
     justify-content: space-between;
     padding: 5px 10px;
 }
+
+.ulNav{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
